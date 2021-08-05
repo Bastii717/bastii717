@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fblog.bastii717.dev%2Frss%2F"
+          feed_list: "https://blog.bastii717.dev/rss/"
