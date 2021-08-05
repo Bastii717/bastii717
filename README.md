@@ -1,6 +1,6 @@
 ### Aloha, I'm [bastii717](https://bastii717.dev) 👋
 
-[![Website](https://img.shields.io/website?label=bastii727.dev&style=for-the-badge&url=https%3A%2F%2Fbastii717.dev)](https://bastii717.dev)
+[![Website](https://img.shields.io/website?label=bastii717.dev&style=for-the-badge&url=https%3A%2F%2Fbastii717.dev)](https://bastii717.dev)
 
 ### Connect with me:
 
