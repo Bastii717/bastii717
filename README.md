@@ -13,10 +13,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox: LXC Passwort zurücksetzen](https://blog.bastii717.dev/proxmox-lxc-passwort-zurucksetzen/)
 - [Videokonferenzen mit Jitsi Meet](https://blog.bastii717.dev/videokonferenzen-mit-jitsi-meet/)
 - [Microblog #05: Ubuntu Server - Standard PHP Version wechseln](https://blog.bastii717.dev/standard-php-version-wechseln/)
 - [BigBlueButton - Installation via Hetzner Apps](https://blog.bastii717.dev/bigbluebutton-installation-via-hetzner-apps/)
 - [Nextcloud - Update Prozess langsam / Timeout](https://blog.bastii717.dev/nextcloud-update-prozess-langsam-timeout/)
-- [Nextcloud 22 Installation mit Nginx, MariaDB, PHP7.4, LetsEncrypt, Redis und Fail2Ban](https://blog.bastii717.dev/nextcloud-22-installation-mit-nginx-mariadb-php7-4-letsencrypt-redis-und-fail2ban/)
 <!-- BLOG-POST-LIST:END -->
 
