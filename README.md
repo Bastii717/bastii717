@@ -13,7 +13,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Proxmox: LXC Passwort zurücksetzen](https://blog.bastii717.dev/proxmox-lxc-passwort-zurucksetzen/)
+- [Microblog #06: Proxmox: LXC Passwort zurücksetzen](https://blog.bastii717.dev/proxmox-lxc-passwort-zurucksetzen/)
 - [Videokonferenzen mit Jitsi Meet](https://blog.bastii717.dev/videokonferenzen-mit-jitsi-meet/)
 - [Microblog #05: Ubuntu Server - Standard PHP Version wechseln](https://blog.bastii717.dev/standard-php-version-wechseln/)
 - [BigBlueButton - Installation via Hetzner Apps](https://blog.bastii717.dev/bigbluebutton-installation-via-hetzner-apps/)
