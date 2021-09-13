@@ -13,10 +13,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox - Erste Schritte nach der Installation](https://blog.bastii717.dev/proxmox-erste-schritte-nach-der-installation/)
 - [AdGuard - Tracking- und Werbeblocker](https://blog.bastii717.dev/adguard-tracking-und-werbeblocker/)
 - [Ubuntu Server - Speicherplatz der Festplatte erweitern](https://blog.bastii717.dev/speicherplatz-der-festplatte-erweitern/)
 - [Commands einmalig zeitgesteuert ausfuehren](https://blog.bastii717.dev/commands-einmalig-zeitgesteuert-ausfuehren/)
 - [Cheatsheet Linux Commands](https://blog.bastii717.dev/cheatsheet-linux-commands/)
-- [Cloudflare DynDNS Skript](https://blog.bastii717.dev/cloudflare-dyndns-skript/)
 <!-- BLOG-POST-LIST:END -->
 
