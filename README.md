@@ -13,10 +13,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wireguard](https://blog.bastii717.dev/wireguard/)
 - [Proxmox - Erste Schritte nach der Installation](https://blog.bastii717.dev/proxmox-erste-schritte-nach-der-installation/)
 - [AdGuard - Tracking- und Werbeblocker](https://blog.bastii717.dev/adguard-tracking-und-werbeblocker/)
 - [Ubuntu Server - Speicherplatz der Festplatte erweitern](https://blog.bastii717.dev/speicherplatz-der-festplatte-erweitern/)
 - [Commands einmalig zeitgesteuert ausfuehren](https://blog.bastii717.dev/commands-einmalig-zeitgesteuert-ausfuehren/)
-- [Cheatsheet Linux Commands](https://blog.bastii717.dev/cheatsheet-linux-commands/)
 <!-- BLOG-POST-LIST:END -->
 
