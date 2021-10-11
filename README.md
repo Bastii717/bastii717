@@ -13,7 +13,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Teamspeak3-Server-Installation](https://blog.bastii717.dev/teamspeak3-server-installation/)
+- [Teamspeak3 Server Installation](https://blog.bastii717.dev/teamspeak3-server-installation/)
 - [Wireguard](https://blog.bastii717.dev/wireguard/)
 - [Proxmox - Erste Schritte nach der Installation](https://blog.bastii717.dev/proxmox-erste-schritte-nach-der-installation/)
 - [AdGuard - Tracking- und Werbeblocker](https://blog.bastii717.dev/adguard-tracking-und-werbeblocker/)
