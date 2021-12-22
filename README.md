@@ -13,10 +13,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring mit Uptime Kuma](https://blog.bastii717.dev/monitoring-mit-uptime-kuma/)
 - [Teamspeak3 Server Installation](https://blog.bastii717.dev/teamspeak3-server-installation/)
 - [Wireguard](https://blog.bastii717.dev/wireguard/)
 - [Proxmox - Erste Schritte nach der Installation](https://blog.bastii717.dev/proxmox-erste-schritte-nach-der-installation/)
 - [AdGuard - Tracking- und Werbeblocker](https://blog.bastii717.dev/adguard-tracking-und-werbeblocker/)
-- [Ubuntu Server - Speicherplatz der Festplatte erweitern](https://blog.bastii717.dev/speicherplatz-der-festplatte-erweitern/)
 <!-- BLOG-POST-LIST:END -->
 
