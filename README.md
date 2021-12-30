@@ -13,10 +13,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nextcloud 23 Installation mit Nginx, MariaDB, PHP8.0, LetsEncrypt, Redis und Fail2Ban 2](https://blog.bastii717.dev/nextcloud-23-installation-mit-nginx-mariadb-php8-0-letsencrypt-redis-und-fail2ban/)
 - [Monitoring mit Uptime Kuma](https://blog.bastii717.dev/monitoring-mit-uptime-kuma/)
 - [Teamspeak3 Server Installation](https://blog.bastii717.dev/teamspeak3-server-installation/)
 - [Wireguard](https://blog.bastii717.dev/wireguard/)
 - [Proxmox - Erste Schritte nach der Installation](https://blog.bastii717.dev/proxmox-erste-schritte-nach-der-installation/)
-- [AdGuard - Tracking- und Werbeblocker](https://blog.bastii717.dev/adguard-tracking-und-werbeblocker/)
 <!-- BLOG-POST-LIST:END -->
 
