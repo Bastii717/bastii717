@@ -13,10 +13,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nextcloud 23 Installation mit Nginx, MariaDB, PHP7.4, LetsEncrypt, Redis und Fail2Ban](https://blog.bastii717.dev/nextcloud-23-installation-mit-nginx-mariadb-php8-0-letsencrypt-redis-und-fail2ban/)
 - [SSL Zertifikate von LetsEncrypt mit acme.sh beziehen und verwalten](https://blog.bastii717.dev/ssl-zertifkate-von-letsencrypt-mithilfe-von-acme-sh-beziehen-und-verwalten/)
 - [Nextcloud Hub II - Collabora Installation](https://blog.bastii717.dev/nextcloud-collabora-installation/)
 - [Monitoring mit Uptime Kuma](https://blog.bastii717.dev/monitoring-mit-uptime-kuma/)
 - [Teamspeak3 Server Installation](https://blog.bastii717.dev/teamspeak3-server-installation/)
-- [Wireguard](https://blog.bastii717.dev/wireguard/)
 <!-- BLOG-POST-LIST:END -->
 
