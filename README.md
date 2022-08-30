@@ -5,9 +5,9 @@
 ### Connect with me:
 
 [<img align="left" alt="bastii717.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://bastii717.dev)
-[<img align="left" alt="bastii717 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://b717.click/twitter)
-[<img align="left" alt="bastii717 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://b717.click/linkedin)
-[<img align="left" alt="bastii717 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://b717.click/instagram)
+[<img align="left" alt="bastii717 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://go.b717.dev/twitter)
+[<img align="left" alt="bastii717 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://go.b717.dev/linkedin)
+[<img align="left" alt="bastii717 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://go.b717.dev/instagram)
 
 <br />
 
