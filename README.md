@@ -1,11 +1,11 @@
 ### Aloha, I'm [bastii717](https://bastii717.dev) 👋
 
-[![Website](https://img.shields.io/website?label=bastii717.dev&style=for-the-badge&url=https%3A%2F%2Fbastii717.dev)](https://bastii717.dev)
+[![Website](https://img.shields.io/website?label=bastii717.dev&style=for-the-badge&url=https%3A%2F%2Fbastii717.dev)](https://b717.dev)
 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-heise-1762a7153) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bastii717) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://go.b717.dev/linkedin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://go.b717.dev/twitter) 
 
 ---
 
